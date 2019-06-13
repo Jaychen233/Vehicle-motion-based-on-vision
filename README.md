@@ -55,8 +55,10 @@ csv-files
  <img src="Images/chart.png"> 
 
  ### The architecture of speed CNN
- The network has about 27 million connections and 250 thousand parameters.
   <img src="Images/speed-cnn.png"> 
+  
+  The network has about 27 million connections and 250 thousand parameters.
+
 
 
 
