@@ -27,6 +27,15 @@ The examples contain a 1 minute sample segment and some sample notebooks.
 
 For examples related to raw GNSS please check out [Laika](https://github.com/commaai/laika)
 
-## Dataset Structure
+## Dataset loading 
+Structure
+The ideas is to split the video sources into individual picture frame and use csv file to store its speed at a particular speed. 
+csv-files
+|
+|
++-- images-paths
+    |
+    speed@frame
+        
 
 
