@@ -51,11 +51,14 @@ csv-files
  
  3. Five image cue differences -- 5 Dimensional parameter
     
-    
- 
- 
- 
+ ### The Flow chart for our pipeline
  <img src="Images/chart.png"> 
+
+ ### The architecture of speed CNN
+ The network has about 27 million connections and 250 thousand parameters.
+  <img src="Images/speed-cnn.png"> 
+
+
 
         
 
