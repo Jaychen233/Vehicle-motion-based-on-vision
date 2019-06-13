@@ -36,6 +36,27 @@ csv-files
 +-- images-paths
     |
     speed@frame
+    
+    
+ # Methodlogy
+ ## Five architecture to compare
+ ### sparse optical methods
+ 1.Forward wrapping
+ 2.Lucas-Kanade Optical Flow
+
+ ### Dense optical methods (Use speed CNN architechture)
+ 1. Pyrimid Lucas-Kanade Optical Flow overlay -- 3 Dimensional parameter
+    
+ 2. Sublinear Optical Flow Algorithm -- 3 Dimensional parameter
+ 
+ 3. Five image cue differences -- 5 Dimensional parameter
+    
+    
+ 
+ 
+ 
+ <img src="Images/chart.png"> 
+
         
 
 
