@@ -59,7 +59,9 @@ csv-files
   
   The network has about 27 million connections and 250 thousand parameters.
 
-
+# reference 
+thanks to comma.ai
+https://www.digitaltrends.com/cars/commaai-self-driving-retrofit-software-free/
 
 
         
