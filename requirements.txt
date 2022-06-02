@@ -1,7 +1,7 @@
 backports.weakref==1.0rc1
 bleach==1.5.0
 cycler==0.10.0
-html5lib==0.9999999
+html5lib==0.99999999
 Keras==2.0.6
 Markdown==2.6.8
 matplotlib==2.0.2
@@ -25,7 +25,7 @@ backports.weakref==1.0rc1
 bleach==1.5.0
 cycler==0.10.0
 decorator==4.0.11
-html5lib==0.9999999
+html5lib==0.99999999
 imageio==2.1.2
 Keras==2.0.6
 Markdown==2.6.8
@@ -57,7 +57,7 @@ cycler==0.10.0
 decorator==4.0.11
 entrypoints==0.2.3
 h5py==2.7.0
-html5lib==0.9999999
+html5lib==0.99999999
 imageio==2.1.2
 ipykernel==4.6.1
 ipython==6.1.0
